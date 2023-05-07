@@ -1,0 +1,7 @@
+ID:SENSOR1 온도:20 조도:70 습도:50
+ID:SENSOR3 온도:22 조도:70 습도:40
+ID:SENSOR4 온도:21 조도:80 습도:35
+ID:SENSOR1 온도:22 조도:33 습도:44
+ID:SENSOR2 온도:33 조도:44 습도:55
+ID:SENSOR13 온도:22 조도:33 습도:44
+ID:fssdssf 온도:ffs 조도:ee 습도:rr
